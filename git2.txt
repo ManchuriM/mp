@@ -1,0 +1,1 @@
+There are many ways it can be set up and configured, but at my job, here's how we use it: when a new employee starts, he downloads all the files from Github, which is an online server we're all connected to
